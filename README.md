@@ -20,7 +20,7 @@ If you don't have curl installed, brew install curl to install the curl package.
      sudo easy_install pip
 
 #### Install NLTK and its dependencies
-    sudo pip install -U numpy pyyaml nltk
+    sudo pip install -U numpy pyyaml nltk pyenchant
 
 #### Test the Install
     python 
